@@ -81,7 +81,7 @@ glagoli2 = [
     "be in a conflict with",
     "train",
     "use",
-    "posses"
+    "possess"
 
 ];
 
